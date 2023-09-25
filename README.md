@@ -10,7 +10,7 @@ This is a React To do list app developed by me to learn and enhance my react ski
  ## Learnings
 
   - React
-  - React hooks
+  - React hook
   - React props
   - functions
   - State management
